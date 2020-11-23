@@ -51,7 +51,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605106661613</updated>
-      <workItem from="1605106663425" duration="6236000" />
+      <workItem from="1605106663425" duration="6303000" />
+      <workItem from="1606113842138" duration="601000" />
     </task>
     <task id="LOCAL-00001" summary="Project basic files are created.">
       <created>1605108206018</created>
@@ -60,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605108206018</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Some functions">
+      <created>1605112992591</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605112992591</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,12 +84,14 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Project basic files are created." />
-    <option name="LAST_COMMIT_MESSAGE" value="Project basic files are created." />
+    <MESSAGE value="Some functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some functions" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -94,9 +104,9 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="461" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1605107112836" />
-    <state x="552" y="313" key="Vcs.Push.Dialog.v2" timestamp="1605108212664">
+    <state x="552" y="313" key="Vcs.Push.Dialog.v2" timestamp="1605112995071">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="313" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1605108212664" />
+    <state x="552" y="313" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1605112995071" />
   </component>
 </project>
